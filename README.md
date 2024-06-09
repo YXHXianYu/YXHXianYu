@@ -17,6 +17,7 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * The Legend of Caesar (2017): A terminal RPG, my first official game. ([link](https://github.com/YXHXianYu/My-Ancient-Games/tree/main/The%20Legend%20of%20Caesar%20%E5%87%AF%E6%92%92%E4%BC%A0%E8%AF%B4))
   * AI Challenger (2020): A 2D arena game, supporting PVE, PVP, and code control. ([link](https://github.com/YXHXianYu/AIChallenger))
   * Cookie Escort CER65RUS (2022): A 2D arena game, supporting remote playing through servers. ([link](https://github.com/YXHXianYu/Cookie-Escort-CER-65-RUS))
+  * 浅海寻珍记 (2022): A 3D Bejeweled, developed using C++ & Qt OpenGL. ([link](https://github.com/YXHXianYu/2022-BJTU-DataStructure-FinalProject))
   * Scarlet Mana (2023): A web text adventure game, inspired by *A Dark Room*. ([link](https://github.com/FooLiqi/2023-BJTU-Web-Project))
 * **ACGNM** (二次元)
   * I like all types of video games, such as FPS, RTS, RPG, Souls-like, anime games, Metroidvania, etc. Some of my favorite games are: Flowers, Apex Legends, StarCraft 2, Elden Ring, Rabi-Ribi, Dyson Sphere Program, Lobotomy Corporation, Duskers...
