@@ -7,9 +7,9 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * 3 Gold Medals in Regional Competitions (2 ICPC Regionals, 1 CCPC Regional)
   * Here is my XCPC Template ([link](https://github.com/YXHXianYu/YXHXianYu-XCPC-Template)) and my Retired Essay ([link](https://yxhxianyu.fun/2024/06/06/%E8%87%B4%E6%88%91%E7%9A%84%E5%85%AB%E5%B9%B4%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E7%94%9F%E6%B6%AF/)).
 * **Computer Graphics**
-  * I have developed a Minecraft Shaderpacks ([link](https://github.com/YXHXianYu/Sasaki-Shaders))
-  * I have developed a renderer using C++ & OpenGL ([link](https://github.com/YXHXianYu/BJTU-Game-Engine))
-  * I have developed a frontend renderer using TypeScript & WebGPU ([link](https://github.com/lovekdl/2023-BJTU-Summer-Project))
+  * Sasaki Shaders: a Minecraft Shaderpacks ([link](https://github.com/YXHXianYu/Sasaki-Shaders))
+  * BJTU Game Engine: a renderer using C++ & OpenGL ([link](https://github.com/YXHXianYu/BJTU-Game-Engine))
+  * Blue Space Renderer: a frontend renderer using TypeScript & WebGPU ([link](https://github.com/lovekdl/2023-BJTU-Summer-Project))
   * I will pursue a master's degree at [NJU Meta](http://www.njumeta.com/).
 * **Game Development**
   * Most of my games are made for fun or as course projects.
