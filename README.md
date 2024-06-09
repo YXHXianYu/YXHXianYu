@@ -27,7 +27,7 @@ I'm an otaku who interested in video games, competitive programming, and compute
 
 ***
 
-* My Blog: I write blogs when I'm in high spirits, including: essays, novels, game/anime reviews, and technology. ([link](https://yxhxianyu.fun/))
+* My Blog: I write blogs sometimes, including: essays, novels, game/anime reviews, and technology. ([link](https://yxhxianyu.fun/))
 * My Email: 2943003@qq.com or yxhxianyu@gmail.com
 * My Skills
   * Proficient: C++, OpenGL
