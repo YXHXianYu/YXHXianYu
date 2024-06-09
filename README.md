@@ -20,10 +20,15 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * Scarlet Mana (2023): A web text adventure game, inspired by *A Dark Room*. ([link](https://github.com/FooLiqi/2023-BJTU-Web-Project))
 * **ACGNM** (二次元)
   * I like all types of video games, such as FPS, RTS, RPG, Souls-like, anime games, Metroidvania, etc. Some of my favorite games are: Flowers, Apex Legends, StarCraft 2, Elden Ring, Rabi-Ribi, Dyson Sphere Program, Lobotomy Corporation, Duskers...
-  * I like playing galgames: Flowers, Steins;Gate, 星空列车与白的旅行...
+  * I like playing galgames: Flowers, Steins;Gate, Danganronpa, 星空列车与白的旅行...
   * I like watching anime: 少女终末旅行, 永生之酒, 吹响吧!上低音号, 刀剑神域...
   * I like reading science fiction novels.
-* **Blog**
-  * [My Blog](https://yxhxianyu.fun/): I occasionally write blogs when I'm in high spirits, including: essays, novels, game/anime reviews, algorithms, and technology.
-* **Contact**
-  * My Email: 2943003@qq.com or yxhxianyu@gmail.com
+
+***
+
+* My Blog: I write blogs when I'm in high spirits, including: essays, novels, game/anime reviews, and technology. ([link](https://yxhxianyu.fun/))
+* My Email: 2943003@qq.com or yxhxianyu@gmail.com
+* My Skills
+  * Proficient: C++, OpenGL
+  * Intermediate: C, Java, Python, JavaScript, CMake, WebGPU, Docker, Linux, Web(Vue/React/Spring/Django)
+  * Beginner: Rust, Vulkan, Unity
