@@ -16,7 +16,6 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * I like playing galgames: Flowers, Steins;Gate, Danganronpa, 星空列车与白的旅行, VA-11 Hall-A...
   * I like watching anime: 少女终末旅行, 永生之酒, 吹响吧!上低音号, 刀剑神域...
   * I like playing anime mobile games: Blue Archive, Azur Lane...
-  * I like reading science fiction novels and Cthulhu Mythos.
 
 ***
 
@@ -27,3 +26,10 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * Intermediate: C, Java, Python, JavaScript, CMake, WebGPU, Docker, Linux, Web(Vue/React/Spring/Django)
   * Beginner: Rust, Vulkan, Unity
 * [This Docs](./Projects.md) records all my projects about **Game Development** and **北交软件学院 作业合集**
+
+***
+
+* Recently Activities (2024.8)
+  * Developing an RTS game using **Rust** and **Bevy**, where players write AI code to control units. [Slime Worlds](https://github.com/YXHXianYu/Slimes-World)
+  * Contributing to a graphics engine.
+  * Ready to play *Black Myth: Wukong*.
