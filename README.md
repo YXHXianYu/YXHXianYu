@@ -25,4 +25,4 @@ I'm an otaku who interested in video games, competitive programming, and compute
 * My Skills:
   * Languages: C, C++, Rust, Java, C#, Python, JavaScript
   * Tools: OpenGL, Vulkan, WebGPU, Web(Vue/React/Spring/Django/Flask)
-* [This Docs](./Projects.md) records all my projects about **Game Development** and **北交软件学院 作业合集**
+* [This Docs](./Projects.md) records all my projects about **Game Development** and **北交软件学院 项目合集**
