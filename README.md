@@ -20,7 +20,7 @@ I'm an otaku who interested in video games, competitive programming, and compute
 ***
 
 * My Blog: I write blogs sometimes, including: essays, novels, game/anime reviews, and technology. ([link](https://yxhxianyu.fun/))
-* My Email: 2943003@qq.com or yxhxianyu@gmail.com
+* My Email: yxhxianyu@qq.com or yxhxianyu@gmail.com
   * *Please contact me via email; I will not respond to any other forms of communication.*
 * My Skills:
   * Languages: C, C++, Rust, Java, C#, Python, JavaScript
