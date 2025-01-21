@@ -9,6 +9,7 @@
 * Cookie Escort CER65RUS (2022): A 2D arena game, supporting remote playing through servers. ([link](https://github.com/YXHXianYu/Cookie-Escort-CER-65-RUS))
 * 浅海寻珍记 (2022): A 3D Bejeweled, developed using C++ & Qt OpenGL. ([link](https://github.com/YXHXianYu/2022-BJTU-DataStructure-FinalProject))
 * Scarlet Mana (2023): A web text adventure game, inspired by *A Dark Room*. ([link](https://github.com/FooLiqi/2023-BJTU-Web-Project))
+* **折射 Refraction (2025)**: [2025 Global Game Jam] A puzzle game designed on the basis of colorful soap bubble. ([link](https://github.com/YXHXianYu/Refraction)) ![GitHub stars](https://img.shields.io/github/stars/yxhxianyu/Refraction?style=social)
 
 ## BJTU 软件学院 大作业合集
 
