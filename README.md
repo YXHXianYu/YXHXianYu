@@ -17,13 +17,15 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * I like playing galgames: Flowers, Steins;Gate, Danganronpa, 星空列车与白的旅行, VA-11 Hall-A...
   * I like watching anime: Made In Abyss, 少女终末旅行, 永生之酒, 刀剑神域...
 * Some useful tools
-  * [auto-gakumasu](https://github.com/YXHXianYu/auto-gakumasu): Automatically completes daily tasks in 学園アイドルマスター/学园偶像大师.
+  * [auto-wuthering-waves](https://github.com/YXHXianYu/auto-wuthering-waves): Automatically completes daily tasks in 鸣潮/Wuthering Waves.
+  * [auto-gakumasu](https://github.com/YXHXianYu/auto-gakumasu): Automatically completes daily tasks in 学园偶像大师/学園アイドルマスター.
   * [auto-sstm](https://github.com/YXHXianYu/auto-sstm): Automatically get daily rewards in sstm.moe.
   * [japanese-training-tool](https://github.com/YXHXianYu/Japanese-Trainning-Tool): Helps you quickly establish mappings between different symbols.
   * [chat](https://github.com/YXHXianYu/chat): A simple CLI tool for interacting with LLMs.
+
 ***
 
 * My Blog: I write blogs sometimes, including: essays, novels, game/anime reviews, and technology. ([link](https://yxhxianyu.fun/))
 * My Email: yxhxianyu@qq.com or yxhxianyu@gmail.com
   * *Please contact me via email; I will not respond to any other forms of communication.*
-* [This Docs](./Projects.md) records all my projects about **Game Development** and **北交软件学院 项目合集**
+* [This Docs](./Projects.md) records all my projects about Game Development.
