@@ -10,15 +10,16 @@ I'm an otaku who interested in video games, competitive programming, and compute
   * Sasaki Shaders: a Minecraft Shaderpacks ([link](https://github.com/YXHXianYu/Sasaki-Shaders))
   * **BJTU Game Engine**: a renderer using C++ & OpenGL ([link](https://github.com/YXHXianYu/BJTU-Game-Engine))
   * Blue Space Renderer: a frontend renderer using TypeScript & WebGPU ([link](https://github.com/lovekdl/2023-BJTU-Summer-Project))
-  * I will pursue a master's degree at [NJU Meta](http://www.njumeta.com/).
+  * [NJU Meta](http://www.njumeta.com/)
 * **ACGNM** (二次元)
   * [Here](https://steamcommunity.com/id/yxh_xianyu/) is my Steam Profile.
-  * I like all types of video games: 十三机兵防卫圈, Elden Ring, Duskers, Titanfall 2...
+  * [Here](https://bangumi.tv/user/yxhxianyu) is my Bangumi Profile.
+  * I like all types of video games: 十三机兵防卫圈, Lobotomy Corporation, Elden Ring, Duskers...
   * I like playing galgames: Flowers, Steins;Gate, 9-nine, Danganronpa, 星空列车与白的旅行, VA-11 Hall-A...
-  * I like watching anime: 白色相簿2，Made In Abyss, 少女终末旅行, 永生之酒, 刀剑神域...
-* Some useful tools
-  * [auto-sstm](https://github.com/YXHXianYu/auto-sstm): Automatically get daily rewards in sstm.moe.
-  * [japanese-training-tool](https://github.com/YXHXianYu/Japanese-Trainning-Tool): Helps you quickly establish mappings between different symbols.
+  * I like watching anime: White Album 2, Bocchi the Rock!, 葬送的芙莉莲, Made In Abyss, 少女终末旅行, 永生之酒...
+* **Working On**
+  * Moer Engine
+  * [KAA](https://github.com/XcantloadX/kotones-auto-assistant)
 
 ***
 
