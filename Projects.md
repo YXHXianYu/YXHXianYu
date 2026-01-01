@@ -22,6 +22,7 @@
 * 大二下 实训课
   * [数据库管理系统](https://github.com/YXHXianYu/2023-BJTU-DBMS-Project) ![GitHub stars](https://img.shields.io/github/stars/yxhxianyu/2023-BJTU-DBMS-Project?style=social)（Qt） 
   * [Web项目](https://github.com/FooLiqi/2023-BJTU-Web-Project)：网页放置类游戏（Django）
+* [大二下 大数据](https://github.com/zoransy/SteamPrice-Analysis-and-Prediction)：Steam游戏价格预测
 * [大二下 小学期](https://github.com/lovekdl/2023-BJTU-Summer-Project) ![GitHub stars](https://img.shields.io/github/stars/lovekdl/2023-BJTU-Summer-Project?style=social)
   * 系外行星宜居度分析系统（React  + Django + WebGPU）
 * [大三上 操作系统](https://github.com/YXHXianYu/GardenerOS)
