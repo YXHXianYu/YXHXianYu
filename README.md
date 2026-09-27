@@ -22,3 +22,26 @@ I'm an otaku who interested in video games, competitive programming, and compute
 * My Blog: I write blogs sometimes, including: essays, novels, game/anime reviews, and technology. ([link](https://yxhxianyu.fun/))
 * My Email: yxhxianyu@qq.com
 * [This Docs](./Projects.md) records all my projects about Game Development.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/NJUCG/MoerEngine"><img src="./README/image-20260521113633858.png" width="100%"></a><br>
+      [<a href="https://github.com/NJUCG/MoerEngine">MoerEngine 实时渲染引擎</a>]
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Majowaveon/Drift"><img src="./README/image-20251119205302994.png" width="100%"></a><br>
+      [<a href="https://github.com/Majowaveon/Drift">裂隙迷航 搜打撤独游</a>]
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/cocacola-lab/MineLand"><img src="./README/illustration-whole-system-1080p.png" width="100%"></a><br>
+      [<a href="https://github.com/cocacola-lab/MineLand">MineLand 大模型智能体的Minecraft接口</a>]
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Majowaveon/WhatBird"><img src="./README/screenshot_2.png" width="100%"></a><br>
+      [<a href="https://github.com/Majowaveon/WhatBird">啥鸟?! 平台跳跃独游</a>]
+    </td>
+  </tr>
+</table>
