@@ -9,7 +9,9 @@
 * Cookie Escort CER65RUS (2022): A 2D arena game, supporting remote playing through servers. ([link](https://github.com/YXHXianYu/Cookie-Escort-CER-65-RUS))
 * 浅海寻珍记 (2022): A 3D Bejeweled, developed using C++ & Qt OpenGL. ([link](https://github.com/YXHXianYu/2022-BJTU-DataStructure-FinalProject))
 * Scarlet Mana (2023): A web text adventure game, inspired by *A Dark Room*. ([link](https://github.com/FooLiqi/2023-BJTU-Web-Project))
-* **折射 Refraction (2025)**: [2025 Global Game Jam] A puzzle game designed on the basis of colorful soap bubble. ([link](https://github.com/YXHXianYu/Refraction)) ![GitHub stars](https://img.shields.io/github/stars/yxhxianyu/Refraction?style=social)
+* 折射 Refraction (2025): [2025 Global Game Jam] A puzzle game designed on the basis of colorful soap bubble. ([link](https://github.com/YXHXianYu/Refraction)) ![GitHub stars](https://img.shields.io/github/stars/yxhxianyu/Refraction?style=social)
+* **裂隙迷航 Drift (2025)**: [2025 Netease LeiHuo Makers] Drift(裂隙迷航)是一款2D科幻RPG。你将从一座沉寂的空间站出发，驾驶飞船潜入危险的亚空间。穿越裂隙，在星球上搜刮资源；改造飞船、修复并扩建空间哨站；躲避敌人，或是装配武器防卫飞船。在这个充满未知的宇宙里努力生存，打造属于你的边境哨站。 ([link](https://github.com/Majowaveon/Drift))
+* **啥鸟?! WhatB?! (2026)**: [2026 Global Game Jam] Let this night heron disguises as different birds and experiences a unique bird life through jumping and puzzle-solving. ([link](https://github.com/Majowaveon/WhatBird)) 
 
 ## BJTU 软件学院 大作业合集
 
